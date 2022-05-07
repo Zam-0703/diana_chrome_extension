@@ -38,8 +38,6 @@ yarn run build
 
 图片素材取自<a href="https://www.bilibili.com/video/BV1134y1o7hi">《You&Idol》</a>mv 中，表情包则为 Asoul 微信表情包。部分图标来自<a href="https://github.com/ant-design/ant-design">AntD 开源组件库</a>
 
-~什么？运行错误？小伙伴你好，#摆手#会者不难~
-
 ## 在下个版本中会提供/改进的功能
 
 - 主题切换。提供 AS 五人的主题切换,可能由于需要等待新立绘产出而拖延一个版本
