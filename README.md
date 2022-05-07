@@ -2,8 +2,6 @@
 
 嘉然，我真的好喜欢你啊，mua，为了你，我要学 React！
 
-> ~什么？运行错误？小伙伴你好，#摆手#会者不难~
-
 ## 安装
 
 1. 访问本项目的 [Releases](https://github.com/b9891796435/diana_chrome_extension/releases) 页面，下载 Release 中 Assets 下的`chrome-extension-release.zip` 压缩包。解压后得到 `build` 文件夹
