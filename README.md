@@ -2,6 +2,8 @@
 
 嘉然，我真的好喜欢你啊，mua，为了你，我要学 React！
 
+> ~什么？运行错误？小伙伴你好，#摆手#会者不难~
+
 ## 安装
 
 1. 访问本项目的 [Releases](https://github.com/b9891796435/diana_chrome_extension/releases) 页面，下载 Release 中 Assets 下的`chrome-extension-release.zip` 压缩包。解压后得到 `build` 文件夹
@@ -37,8 +39,6 @@ yarn run build
 ## 特别感谢
 
 图片素材取自<a href="https://www.bilibili.com/video/BV1134y1o7hi">《You&Idol》</a>mv 中，表情包则为 Asoul 微信表情包。部分图标来自<a href="https://github.com/ant-design/ant-design">AntD 开源组件库</a>
-
-~什么？运行错误？小伙伴你好，#摆手#会者不难~
 
 ## 在下个版本中会提供/改进的功能
 
